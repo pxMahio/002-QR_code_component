@@ -1,15 +1,17 @@
 /*---------------------------------------- Google Font import */
-
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
 
 /*---------------------------------------- Colors */
 :root {
     --white: hsl(0,0%,100%);
-    
+    --light-gray: hsl(212, 45%, 89%);
+    --gray: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
 }
 
 /*---------------------------------------- Frontend Mentor Credits styling */
 .attribution {
-    font-size: 11px;
+    font-size: 15px;
     text-align: center;
 }
 
