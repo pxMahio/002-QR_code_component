@@ -3,7 +3,7 @@
 
 /*---------------------------------------- Colors */
 :root {
-    --white: hsl(0,0%,100%);
+    --white: hsl(0, 0%, 100%);
     --light-gray: hsl(212, 45%, 89%);
     --gray: hsl(220, 15%, 55%);
     --dark-blue: hsl(218, 44%, 22%);
@@ -24,7 +24,6 @@
     margin: 0;
     padding: 0;
     font-size: 15px;
-    
 
 /*---------------------------------------- Debugging Tools - DELETE ME WHEN DONE */ 
     /* outline: 1px solid red !important; */
