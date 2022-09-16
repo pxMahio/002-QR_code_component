@@ -68,4 +68,5 @@ body {
     font-family: Outfit, sans-serif;
     color: var(--gray);
     padding: 0 20px;
+    margin-bottom: 20px;
 }
