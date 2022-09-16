@@ -8,12 +8,16 @@
 
 /*---------------------------------------- Frontend Mentor Credits styling */
 .attribution {
-    font-size: 11px;
+    font-family: Outfit, sans-serif;
+    font-size: 15px;
+    line-height: 1.25;
     text-align: center;
+    color: var(--dark-blue);
 }
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+    text-decoration: none;
 }
 
 /*---------------------------------------- Global styling */
@@ -36,7 +40,7 @@ body {
 
 /*---------------------------------------- Card styling */
 .card {
-    width: 320px;
+    width: 290px;
     background-color: var(--white);
     margin: 150px auto 25px auto;
     padding: 15px;
@@ -63,5 +67,5 @@ body {
 .card__paragraph p {
     font-family: Outfit, sans-serif;
     color: var(--gray);
-    padding: 0 30px;
+    padding: 0 20px;
 }
