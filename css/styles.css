@@ -38,7 +38,30 @@ body {
 .card {
     width: 320px;
     background-color: var(--white);
-    margin: 150px auto;
+    margin: 150px auto 25px auto;
     padding: 15px;
     border-radius: 20px;
+}
+
+.card__content {
+    text-align: center;
+}
+
+.card__image img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.card__heading {
+    font-family: Outfit, sans-serif;
+    color: var(--dark-blue);
+    padding: 0 15px;
+    margin-bottom: 15px;
+}
+
+.card__paragraph p {
+    font-family: Outfit, sans-serif;
+    color: var(--gray);
+    padding: 0 30px;
 }
