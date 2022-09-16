@@ -36,7 +36,9 @@ body {
 
 /*---------------------------------------- Card styling */
 .card {
-    width: 200px;
+    width: 320px;
     background-color: var(--white);
-    margin: auto;
+    margin: 150px auto;
+    padding: 15px;
+    border-radius: 20px;
 }
