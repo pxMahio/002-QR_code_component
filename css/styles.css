@@ -33,3 +33,10 @@ html {
 body {
     background-color: var(--light-gray);
 }
+
+/*---------------------------------------- Card styling */
+.card {
+    width: 200px;
+    background-color: var(--white);
+    margin: auto;
+}
